@@ -13,14 +13,14 @@
 
 ## Description :house:
 
-HolbertonBnB is a complete web application, integrating database storage, 
+ALX AirBnB Clone Project is a complete web application, integrating database storage, 
 a back-end API, and front-end interfacing in a clone of AirBnB.
 
 The project currently only implements the back-end console.
 
 ## Classes :cl:
 
-HolbertonBnB utilizes the following classes:
+ALX AirBnB Clone utilizes the following classes:
 
 |     | BaseModel | FileStorage | User | State | City | Amenity | Place | Review |
 | --- | --------- | ----------- | -----| ----- | -----| ------- | ----- | ------ |
@@ -94,7 +94,7 @@ $
 
 ### Console Commands
 
-The HolbertonBnB console supports the following commands:
+The ALX AirBnB Clone console supports the following commands:
 
 * **create**
   * Usage: `create <class>`
@@ -282,3 +282,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 * **Michael Ndula** <[Michaelndula](https://github.com/Michaelndula)>
+* **John Ali** <[Alionuche2008@gmail.com](https://github.com/john12gate)>
+* **Eduke Emmanuel** <[eduke.emmanuel@gmail.com](https://github.com/emmanueleduke)>
